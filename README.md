@@ -67,8 +67,3 @@ Once everything is set up, power on the robot and interact with it using voice c
 ## Conclusion
 
 This personal assistant robot project is a great way to dive into the world of robotics, AI, and home automation using Raspberry Pi. With endless possibilities for customization and improvement, this project can be as simple or complex as you want it to be.   
-
-
-## Languages
-
-Python
